@@ -1,1 +1,1 @@
-“This is NHill92’s first git project!” and then save the file.
+This is NHill92’s first git project!
